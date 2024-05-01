@@ -55,6 +55,7 @@ For more detailed information on finite state machines and their implementation 
 
 - [Murilo Boratto](https://github.com/muriloboratto)
 - [Vinicius Santos](https://github.com/vimsos)
+- [Pedro Costard](https://github.com/Costards2)
 
 If you'd like to contribute to the project or have any suggestions, feel free to submit pull requests or open issues.
 
